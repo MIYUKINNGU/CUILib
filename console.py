@@ -31,7 +31,7 @@ def clear():
     if os.name == "nt":
         os.system("cls")
     else:
-        os.sytstem("clear")
+        os.system("clear")
 
 def show(*line):
     global _console_SCREEN_SIZE
