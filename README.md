@@ -171,7 +171,7 @@ CUILib.CUI.initialize(100, 30)
 CUILib.WindowManager.initialize()
 CUILib.WindowManager.register_window("Window", CUILib.Window("Window Window Window Window", 1, 1, 20, 10))
 
-Text = "Hello World, CUIAPI Library! This is a Window object."
+Text = "Hello World, CUILib! This is a Window object."
 
 l = []
 c = -1
